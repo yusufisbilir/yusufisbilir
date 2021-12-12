@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufisbilir&show_icons=true&locale=en" alt="yusufisbilir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufisbilir&" alt="yusufisbilir" /></p>
+
