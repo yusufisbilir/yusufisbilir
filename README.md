@@ -3,8 +3,6 @@
 
 ## CV: [Resume](https://drive.google.com/file/d/1m2E5DwQqHECfRqHfh_309u6f6h8EQ7HV/view?usp=sharing)
 
-- 🌱 I’m currently learning **Reactjs**
-
 - 📫 How to reach me **dev.yusufisbilir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
