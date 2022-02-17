@@ -3,9 +3,8 @@
 
 ## CV: [Resume](https://drive.google.com/file/d/1m2E5DwQqHECfRqHfh_309u6f6h8EQ7HV/view?usp=sharing)
 
-- 📫 How to reach me **dev.yusufisbilir@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusufisbilir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufisbilir" height="30" width="40" /></a>
 </p>
+**dev.yusufisbilir@gmail.com**
