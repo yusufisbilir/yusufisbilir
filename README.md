@@ -10,6 +10,7 @@ My work emphasizes explicit trade-offs, solid abstractions, and long-term mainta
 ## 🧠 Focus Areas
 
 - Frontend Architecture (React / Next.js)
+- Friendship with BaaS providers (e.g., Supabase)
 - Performance Engineering & Rendering Strategies
 - State, Data Flow, and Cache Design
 - Clean Code, SRP, and Minimalist System Design
