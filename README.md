@@ -35,8 +35,8 @@ I prefer small, composable solutions over “clever” ones.
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yusufisbilir)
-[![CV](https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledrive)](https://drive.google.com/file/d/1y_GNiMheTcwo47OG9cnyxSjfEXKtn75O/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufisbilir)
+[![CV](https://img.shields.io/badge/resume-%231ABC9C.svg?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1Ts-ogo2SCwQhrrEywdRxA3-ZNA0IgboE/view?usp=sharing)
 
 ---
 
