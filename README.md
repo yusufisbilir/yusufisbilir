@@ -5,7 +5,6 @@ Frontend Engineer focused on **Architecture, Performance, and Simplicity**.
 I design user-facing systems where **clarity, predictability, and scalability** matter more than visual noise.  
 My work emphasizes explicit trade-offs, solid abstractions, and long-term maintainability.
 
----
 
 ## 🧠 Focus Areas
 
@@ -15,29 +14,13 @@ My work emphasizes explicit trade-offs, solid abstractions, and long-term mainta
 - State, Data Flow, and Cache Design
 - Clean Code, SRP, and Minimalist System Design
 
-I believe good systems are:
-- Easy to reason about  
-- Hard to misuse  
-- Boring in production  
-
----
-
 ## 🛠️ Philosophy
 
 - Architecture > Framework hype  
-- Constraints drive better design  
-- Fewer abstractions, but stronger ones  
-- Performance is a feature, not an optimization  
-
-I prefer small, composable solutions over “clever” ones.
-
----
+- Performance is a feature, not an optimization
+> *“As AI writes more code, engineers are paid to decide **what should exist**.”*
 
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufisbilir)
 [![CV](https://img.shields.io/badge/resume-%231ABC9C.svg?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1Ts-ogo2SCwQhrrEywdRxA3-ZNA0IgboE/view?usp=sharing)
-
----
-
-> *“As AI writes more code, engineers are paid to decide **what should exist**.”*
